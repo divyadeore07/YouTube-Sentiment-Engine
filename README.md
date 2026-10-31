@@ -101,10 +101,5 @@ Open the local URL displayed in your terminal to access the dashboard.
 - Deploy the application online for public access.
 - Add historical analytics storage and comparison.
 
-## 📄 License
-
-No license has been selected yet.
-
----
 
 **Note:** This project is intended for educational and analytical purposes. Comment extraction depends on YouTube availability, video settings, and the capabilities of the extraction library.
